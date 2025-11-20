@@ -19,15 +19,13 @@ export default function Home() {
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
             Looking for a starting point or more instructions? Head over to{" "}
             Welcome to first app{" "}
+            <h2>Hameed ul Haq</h2>
             or the{" "}
           {" "}
             center.
           </p>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-         
-           
-       
         </div>
       </main>
     </div>
