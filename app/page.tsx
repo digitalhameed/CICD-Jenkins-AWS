@@ -13,7 +13,7 @@ export default function Home() {
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
             Looking for a starting point or more instructions? Head over to{" "}
             Welcome to first app{" "}
-          THis for AWS  - Hameed ul haq
+          THis for AWS  - Hameed ul haq ..,,,
             or the{" "}
           {" "}
             center.
